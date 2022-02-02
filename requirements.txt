@@ -3,3 +3,7 @@ jupyter_client==6.1.7
 jupyter_core==4.6.3
 jupyterlab==2.2.6
 notebook==6.1.4
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.8.1
+pandas
